@@ -1,0 +1,12 @@
+[{
+	"x":100,
+	"y":330,
+	"width":250,
+	"height":20,
+	"class":"link",
+	"data":
+		{
+			"url": "mailto:anant.singh@se.com"
+		}
+}
+]
